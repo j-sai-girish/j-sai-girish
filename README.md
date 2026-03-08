@@ -9,7 +9,7 @@ My goal is to become a **Cloud Engineer / Cloud Support Associate** by developin
 
 # ☁️ Certifications
 
-✅ **AWS Certified Cloud Practitioner** — Feb 2026
+✅ AWS Certified Cloud Practitioner (CLF-C02) — Feb 2026
 
 ---
 
