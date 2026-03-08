@@ -1,82 +1,84 @@
-# 👋 Hi, I’m Sai Girish
-🚀 *Aspiring Cloud & AI/ML Engineer | Tech Enthusiast*
+# 👋 Hi, I'm Sai Girish
 
-Welcome to my GitHub profile! I'm passionate about leveraging **cloud computing** and **AI** to solve real-world problems and build scalable solutions.
+🚀 **AWS Certified Cloud Practitioner | Aspiring Cloud Engineer**
 
-## 🔍 About Me
+I’m a computer science student focused on **cloud computing and building scalable systems on AWS**.
+My goal is to become a **Cloud Engineer / Cloud Support Associate** by developing real-world infrastructure projects and mastering cloud technologies.
 
-### 🎓 Education & Skills
-I'm currently expanding my expertise in **Cloud Computing**, **Machine Learning**, and **Data Science**. My journey involves:
-- Building technical portfolios on GitHub to showcase my **AWS skills** and cloud journey.
-- Working on **AWS projects** using free tier resources and guided labs in the AWS console.
-- Learning AWS cloud skills through Coursera, balancing study with my other interests.
-- Experimenting with **Neural Networks**, **TensorFlow**, **PyTorch**, and contributing to **open-source projects**.
+---
 
-### 💡 Passion & Interests
-I'm passionate about integrating **Cloud** with **AI/ML**, especially in areas like *Natural Language Processing (NLP)*, *Predictive Analytics*, and *Cloud-native AI deployments*.
+# ☁️ Certifications
 
-### 💻 Tech Stack
-- **Programming Languages:** Python, SQL
-- **Cloud Platforms:** AWS (S3, EC2, Lambda, SageMaker)
-- **AI/ML Frameworks:** Scikit-learn, TensorFlow, PyTorch
-- **Web Development:** MongoDB
-- **Version Control & Tools:** Git, GitHub, VS Code, Jupyter Notebook
+✅ **AWS Certified Cloud Practitioner** — Feb 2026
 
-## 🌱 I’m Currently Learning
-- 🔹 *AWS Cloud Fundamentals* and *Cloud Architecture*
-- 🔹 *Cloud AI Services* (AWS SageMaker, Google Vertex AI)
-- 🔹 *Advanced Deep Learning Techniques* (CNNs, LSTMs)
-- 🔹 *High-Resolution Satellite Image Analysis* for Disaster Management
-- 🔹 *MLOps & Model Deployment (CI/CD for AI models)*
-- 🔹 *Full-Stack Development* with Next.js & Tailwind CSS
+---
 
-I love experimenting with cloud-based AI models, optimizing real-time data pipelines, and working with geospatial data for predictive analytics.
+# 💻 Tech Stack
 
-## 🔥 Projects I’m Working On
+**Cloud Platforms**
 
-### *Plant Disease Detection and Prevention using Machine Learning & Cloud*
-- 🔹 AI-powered *disease prediction* & *real-time monitoring* on the cloud
-- 🔹 *AI chatbot assistant* for crop planning
-- 🔹 Exploring *cloud deployment* for scalability and accessibility
+* AWS (EC2, S3, VPC, IAM, CloudWatch, Lambda)
 
-🌍 This project aims to save lives by leveraging *AI, real-time analytics, and cloud computing!*
+**Programming**
 
-## 🤝 I’m Looking to Collaborate On
-- *Cloud & AI/ML Projects* – If you're working on *cloud-native AI, deep learning, computer vision, or NLP*, let's collaborate!
-- *Open-Source Contributions* – Always open to contributing to exciting *open-source projects* in *Cloud, AI, Web Development, and Automation*.
-- *Hackathons & Research* – Interested in teaming up for innovative projects in *cloud, AI, or disaster prediction*.
+* Python
+* SQL
 
-## 📫 How to Reach Me
-📧 *Email:* saigirishjanapala@gmail.com  
-🔗 *LinkedIn:* www.linkedin.com/in/janapala-sai-girish
+**Tools**
 
-Let’s connect and build something amazing! 🚀
+* Git & GitHub
+* Linux (CLI basics)
+* VS Code
 
-## 🏆 Certifications
+---
 
-### *Cloud, AI & Data Science*
-✅ *AWS Cloud Practitioner* (in progress)  
-✅ *Data Analysis with Python* – IBM (Feb 2025)  
-✅ *Introduction to Data Science* (Aug 2024)
+# 🚀 AWS Projects
 
-### *Courses Completed*
-📌 *Computer Networks & Network Security* – IBM (March 2025)  
-📌 *Data Structures* – UC San Diego (April 2024)  
-📌 *Introduction to IoT & Embedded Systems* – UC Irvine (March 2024)
+I am building hands-on cloud projects using the **AWS Free Tier** to strengthen real-world cloud engineering skills.
 
-## 🏅 Achievements
+### 🌐 Static Website Hosting on AWS
 
-🏆 Developed a machine learning model for stock price prediction  
-🏆 Published Research on Plant Disease Prevention and Detection using Machine Learning (Coming soon...)
+* Hosted a website using **Amazon S3**
+* Implemented public access configuration and bucket policies
 
-## ⚡ Fun Facts About Me
-🎮 *Gaming Enthusiast* – I love playing strategy, simulation, and AI-based games like Chess  
-📚 *Lifelong Learner* – Always taking online courses, reading research papers, and testing new cloud/AI models  
-🌍 *Tech for Good* – Strong believer in using *Cloud, AI & ML* for disaster management, climate change, and healthcare  
-🛠 *DIY Tech Projects* – Enjoy tinkering with Arduino, Raspberry Pi, and IoT devices  
-☕ *Coffee Addict* – I run on coffee and late-night coding sessions!
+### 🖥️ EC2 Web Server Deployment
 
-## 🚀 Let's Build Something Awesome!
-If you’re passionate about *Cloud, AI, ML,* or *Open-Source*, let’s collaborate! Feel free to **star ⭐ my projects, fork them, or reach out**.
+* Launched and configured **EC2 instances**
+* Connected using **SSH**
+* Installed and deployed a basic web server
 
-*Happy Coding! 🚀🔥*
+### 🔐 IAM Security Setup
+
+* Created IAM users, groups, and roles
+* Applied **least privilege access policies**
+
+*(More cloud projects coming soon as I progress through my AWS roadmap.)*
+
+---
+
+# 📚 Currently Learning
+
+* AWS Networking (VPC, Subnets, NAT, Routing)
+* AWS Monitoring (CloudWatch & Logging)
+* Linux for Cloud Engineers
+* Python for Cloud Automation
+* Cloud Architecture Fundamentals
+
+---
+
+# 🎯 2026 Goals
+
+* Build **5+ production-style AWS projects**
+* Gain deeper experience with **networking and security in AWS**
+* Become job-ready for **Cloud Support / Junior Cloud Engineer roles**
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: [saigirishjanapala@gmail.com](mailto:saigirishjanapala@gmail.com)
+🔗 LinkedIn: [www.linkedin.com/in/janapala-sai-girish](http://www.linkedin.com/in/janapala-sai-girish)
+
+---
+
+⭐ *Follow my GitHub to track my cloud engineering journey.*
